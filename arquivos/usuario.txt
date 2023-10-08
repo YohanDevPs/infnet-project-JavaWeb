@@ -1,0 +1,3 @@
+jose@gmail.com;Jose;123
+maria@gmail.com;Maria;123
+joao@gmail.com;Joao;123

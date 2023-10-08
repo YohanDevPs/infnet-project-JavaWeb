@@ -1,0 +1,9 @@
+Amendoin;200;amendoin para area X;OLEAGINOSA;5000;1;S
+Cafe;169;cafe para lavoura;AMILACEA;9000;1;S
+Cacau;600;cacau para doce;PASTAGEM;2000;1;S
+Dektremetrina;500;inseticida para larva;INCETICIDA;750;1;A
+Binapacril;480;Para fungos na lavoura X;FUNGICIDA;600;1;A
+Paraquat;120;Desfoliante da lavoura Y;DESFOLIANTE;150;1;A
+húmus de minhoca;520;humos especial;ORGANICO;850;1;F
+farinha de ossos;320;para lavoura T;ORGANICO;750;1;F
+formulação NPK;220;para lavoura P;MINERAL;650;1;F
